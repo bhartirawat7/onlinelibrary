@@ -202,16 +202,17 @@ function dil(form)
     
         <ul class="footer_menu">
                  <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>
                     <li><a href="contactus.jsp">Contact Us</a></li>
         </ul>
                 
-                Copyright ï¿½ 2048 <a href="#">Your Company Name</a> | 
-                <a href="http://www.javatpoint.com" target="_parent">Website Projects</a> by <a href="http://www.javatpoint.com" target="_parent">javatpoint.com</a></div>
+                Copyright © 2021 <a href="#">Online Library</a> |Website
+				Projects by Online Library
+                </div>
     
 </div>
-<div align=center>This project  downloaded form <a href='http://www.javatpoint.com/'>free website projects</a></div></body>
+</body>
 </html>
