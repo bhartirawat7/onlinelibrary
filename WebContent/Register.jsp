@@ -48,7 +48,7 @@ function dil(form)
    {
 	   if(document.F1.phone.value >9999999999 )
 	   {
-		 alert("ye kabhi nhi aayegi")
+		 alert("Please enter value less than 9999999999")
 		 document.F1.phone.value=""
 		 document.F1.phone.focus()
          return false   
@@ -101,7 +101,7 @@ function dil(form)
         
          <ul>
           <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>
@@ -173,11 +173,11 @@ function dil(form)
 					
 					<TR>
 	<TD> Select your designation:</TD> <TD> <SELECT NAME="syd"> 
-									 <option>student
-<option>professor
+									 <option>Student
+<option>Professor
 <option>Associate-Professor
-<option>lecturer
-<option>non-teaching staff
+<option>Lecturer
+<option>Non-teaching staff
 									 
 									</SELECT> </TD>
 
