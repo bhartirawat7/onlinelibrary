@@ -70,7 +70,7 @@ function dil(form)
         
         <ul>
        <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>
@@ -109,11 +109,10 @@ function dil(form)
 			
            	<h2>JAVA</h2>
             
-            <div class="section_w250 float_l">
-				<h3>Core Java</h3>            
-				<p>oops is a concept of core java so. javatpoint.com ,is realy a very good website we must visit,on this web site,to know java in defth.</p>
-           </div>
-            
+         <div class="section_w250 float_l">
+	<h3>Core Java</h3>            
+	<p>oops is a concept of core java so. Many free websites are really a very good websites to learn java in depth.</p>
+</div>
             <div class="cleaner"></div>
         
         </div><div class="sidebar_box_bottom"></div>
@@ -156,11 +155,10 @@ function dil(form)
           
              	</table>
              	<h2>JAVA</h2>
-            
-            <div class="section_w250 float_l">
-				<h3>Core Java</h3>            
-				<p>oops is a concept of core java so. javatpoint.com ,is realy a very good website we must visit,on this web site,to know java in defth.</p>
-           </div>
+          <div class="section_w250 float_l">
+	<h3>Core Java</h3>            
+	<p>oops is a concept of core java so. Many free websites are really a very good websites to learn java in depth.</p>
+</div>
           
 				</form>
   		
@@ -227,7 +225,7 @@ function dil(form)
     
         <ul class="footer_menu">
                 <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsformember.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>

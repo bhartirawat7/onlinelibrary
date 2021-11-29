@@ -9,13 +9,9 @@ public static boolean checkLogin(double id){
 	boolean status=false;
 	Connection con=GetCon.getCon();
 	try {
-		System.out.println("222222"+id);
-		System.out.println("rrrrrrrr");
 		//PreparedStatement ps=con.prepareStatement("Select * from MAILCASTINGUSER where EMAILADD = ? and PASSWORD =?");
 		PreparedStatement ps=con.prepareStatement("Select * from neworder4 where id =?");
-		//ps.setInt(1,accountno);
 		ps.setDouble(1,id);
-		
 		
 		ResultSet rs=ps.executeQuery();
 		status=rs.next();

@@ -63,7 +63,7 @@ function dil(form)
         
         <ul>
             <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>
@@ -199,7 +199,7 @@ function dil(form)
     
         <ul class="footer_menu">
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="admin.jsp">Adminstrator</a></li>
+                    <li><a href="admin.jsp">Administrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>

@@ -157,10 +157,10 @@ function dil(form)
              	
              	<h2>JAVA</h2>
             
-            <div class="section_w250 float_l">
-				<h3>Core Java</h3>            
-				<p>oops is a concept of core java so. javatpoint.com ,is realy a very good website we must visit,on this web site,to know java in defth.</p>
-           </div>
+           <div class="section_w250 float_l">
+	<h3>Core Java</h3>            
+	<p>oops is a concept of core java so. Many free websites are really a very good websites to learn java in depth.</p>
+</div>
           
 				</form>
   		

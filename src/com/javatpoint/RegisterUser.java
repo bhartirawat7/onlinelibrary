@@ -11,7 +11,7 @@ public class RegisterUser {
 		Connection con = GetCon.getCon();
 		PreparedStatement ps;
 		try {
-			ps = con.prepareStatement("Insert into NEWMEMBER values(?,?,?,?,?,?)");
+//			ps = con.prepareStatement("Insert into NEWMEMBER values(?,?,?,?,?,?)");
 			ps = con.prepareStatement("insert into NEWMEMBER (username,password,repassword,phone,adderess,syd) values(?,?,?,?,?,?)");
 //			int nextvalue1 = GetCon.getPrimaryKey();
 //			ps.setInt(1, nextvalue1);

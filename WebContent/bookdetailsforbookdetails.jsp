@@ -248,8 +248,7 @@ function dil(form)
                     <li><a href="contactus.jsp">Contact Us</a></li>
             </ul>
                 
-            Copyright ï¿½ 2021 <a href="#">Online Library</a> |Website
-				Projects by Online Library
+          Copyright © 2021 <a href="#">Online Library</a> | Website Projects by Online Library
 				
 				</div>
     

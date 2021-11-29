@@ -9,9 +9,7 @@ public static boolean checkLogin(String username,String password){
 	boolean status=false;
 	Connection con=GetCon.getCon();
 	try {
-		//PreparedStatement ps=con.prepareStatement("Select * from MAILCASTINGUSER where EMAILADD = ? and PASSWORD =?");
 		PreparedStatement ps=con.prepareStatement("Select * from NEWMEMBER where username = ? and password = ?");
-		//ps.setInt(1,accountno);
 		ps.setString(1,username);
 		ps.setString(2,password);
 		

@@ -119,14 +119,6 @@ function dil(form)
                     <p>oops is a concept of core java so. Many free websites are really a very good websites to learn java in depth.</p>
                 </div>
 			
-          <%--   <h2>AskQuestions</h2>
-            
-            <form action="www.javatpoint.com" method="get">
-            <label>Please enter your email address to ask or post java Question Answer.</label>
-            <input type="text" value="" name="username" size="10" id="input_field" title="usernmae" />
-            <input type="submit" name="login" value="Ask" alt="login" id="submit_btn" title="Login" />
-            </form>--%>
-            
             <div class="cleaner"></div>
         
         </div><div class="sidebar_box_bottom"></div>
@@ -220,11 +212,6 @@ function dil(form)
 <%@ page import="javax.servlet.*"%>
 <%@ page import="com.javatpoint.*" %>
   
-  	
-    	
-    	
-		
-             	<%--</table>--%>
                       
 				</form>
   		
@@ -273,8 +260,7 @@ function dil(form)
                     <li><a href="contactus.jsp">Contact Us</a></li>
             </ul>
                 
-              Copyright ï¿½ 2021 <a href="#">Online Library</a> |Website
-				Projects by Online Library
+          Copyright © 2021 <a href="#">Online Library</a> | Website Projects by Online Library
                 
                 </div>
     
